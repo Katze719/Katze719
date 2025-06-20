@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I’m Katze719
 
-<!--
-**Katze719/Katze719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer** | C++ Enthusiast | DevOps Tinkerer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🛠️ I love building stuff that no one needs.
+- 💡 Motto: **make it work**
+- 🔧 Focused on C++ and DevOps, with a passion for solving (and sometimes creating) fun technical challenges.
+
+---
+
+### 🌟 Featured Project
+
+#### [Aeternum-Sentinel](https://github.com/Katze719/Aeternum-Sentinel)
+> My favorite project! Check it out if you like innovative, possibly unnecessary, but definitely interesting builds.
+
+---
+
+### ⚡ Fun Facts
+
+- I enjoy experimenting with ideas just for the thrill of making things work.
+- Always up for a new challenge or learning opportunity.
+
+---
+
+![Katze719's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Katze719&show_icons=true&theme=tokyonight)
