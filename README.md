@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Katze719
 
-**Developer** | C++ Enthusiast | DevOps Tinkerer
+**Developer** | C++ Enthusiast | Python User | DevOps Tinkerer
 
 ---
 
@@ -8,7 +8,7 @@
 
 - 🛠️ I love building stuff that no one needs.
 - 💡 Motto: **make it work**
-- 🔧 Focused on C++ and DevOps, with a passion for solving (and sometimes creating) fun technical challenges.
+- 🔧 Focused on Python, C++ and DevOps, with a passion for solving (and sometimes creating) fun technical challenges.
 
 ---
 
